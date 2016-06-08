@@ -1,0 +1,38 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/srv/domains/escmid/webadmin/src/Mm/Escmid/EaaBundle/Resources/config/services.yml" timestamp="1465175367626">
+        <mark key="[" line="58" column="36" />
+      </file>
+      <file name="D:/srv/domains/pt/RomanKarankevychTest/src/Site/SiteBundle/DependencyInjection/Configuration.php" timestamp="1465321288014">
+        <mark key="[" line="16" column="6" />
+      </file>
+      <file name="D:/srv/domains/pt/RomanKarankevychTest/composer.json" timestamp="1465320981449" />
+      <file name="D:/srv/domains/pt/RomanKarankevychTest/web/config.php" timestamp="1465276647675">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
