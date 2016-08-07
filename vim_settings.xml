@@ -18,7 +18,13 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="D:/srv/domains/beton/src/Mm/Beton/Planungsatlas/AtlasBundle/Resources/public/js/responsive.js" timestamp="1468474967284" />
+      <file name="D:/srv/domains/mbtedb/app/config/services.yml" timestamp="1470555371453">
+        <mark key="[" line="24" column="96" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
+      <file name="D:/srv/domains/mbtedb/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/web.xml" timestamp="1470555225662" />
     </filemarks>
     <jumps />
     <registers />
@@ -35,6 +41,18 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
