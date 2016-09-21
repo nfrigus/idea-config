@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'D:\srv\domains\pt\RomanKarankevychTest\src'" />
-    <option name="defaultScopeName" value="Directory 'D:\srv\domains\pt\RomanKarankevychTest\src'" />
+    <option name="customScope" value="Directory '[oro-crm] - ...\vendor\oro'" />
+    <option name="defaultScopeName" value="Directory '[oro-crm] - ...\vendor\oro'" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\srv\domains\pt\RomanKarankevychTest\src'" />
+    <option name="SEARCH_SCOPE" value="Directory '[oro-crm] - ...\vendor\oro'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
