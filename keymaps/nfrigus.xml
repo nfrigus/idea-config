@@ -14,6 +14,9 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl r" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
