@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="limelight" type="JavaScript" />
+      <mapping ext="info" type="Ini" />
       <mapping pattern="browserify" type="JavaScript" />
+      <mapping pattern="limelight" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
