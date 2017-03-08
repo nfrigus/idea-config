@@ -37,6 +37,12 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl v" />
+  </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
   </action>
@@ -54,6 +60,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl m" />
   </action>
   <action id="linessorter.sort">
     <keyboard-shortcut first-keystroke="shift alt l" />
