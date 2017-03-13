@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[oro-crm] - ...\vendor\oro'" />
-    <option name="defaultScopeName" value="Directory '[oro-crm] - ...\vendor\oro'" />
-    <option name="SEARCH_SCOPE" value="Directory '[oro-crm] - ...\vendor\oro'" />
+    <option name="customScope" value="Directory '[resment-hr] - ...\src'" />
+    <option name="defaultScopeName" value="Directory '[resment-hr] - ...\src'" />
+    <option name="SEARCH_SCOPE" value="Directory '[resment-hr] - ...\src'" />
   </component>
 </application>
