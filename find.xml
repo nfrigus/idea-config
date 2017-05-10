@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[resment-hr] - ...\src'" />
     <option name="defaultScopeName" value="Directory '[resment-hr] - ...\src'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[resment-hr] - ...\src'" />
   </component>
 </application>
