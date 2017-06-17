@@ -1,5 +1,6 @@
 <keymap version="1" name="nfrigus" parent="$default">
   <action id="CheckinProject" />
+  <action id="CollapseSelection" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="EditorCloneCaretAbove">
