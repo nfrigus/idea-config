@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="limelight" type="JavaScript" />
       <mapping pattern="browserify" type="JavaScript" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
