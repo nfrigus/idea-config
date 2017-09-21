@@ -5,7 +5,6 @@
       <mapping pattern="limelight" type="JavaScript" />
       <mapping pattern="browserify" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="info" type="Ini" />
