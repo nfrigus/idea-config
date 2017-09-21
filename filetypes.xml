@@ -7,6 +7,7 @@
       <mapping pattern="head.html" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
+      <mapping pattern="UserProfile" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="info" type="Ini" />
       <mapping ext="pkb" type="DBN-PSQL" />
