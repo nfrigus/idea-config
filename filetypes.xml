@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="limelight" type="JavaScript" />
       <mapping pattern="browserify" type="JavaScript" />
+      <mapping pattern="ProductFilterForm" type="PLAIN_TEXT" />
       <mapping pattern="head.html" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
