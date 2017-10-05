@@ -2,13 +2,14 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="limelight" type="JavaScript" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="browserify" type="JavaScript" />
+      <mapping pattern="limelight" type="JavaScript" />
       <mapping pattern="ProductFilterForm" type="PLAIN_TEXT" />
       <mapping pattern="head.html" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
-      <mapping pattern="UserProfile" type="Python" />
+      <mapping ext="html" type="Twig" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="info" type="Ini" />
       <mapping ext="pkb" type="DBN-PSQL" />
@@ -20,6 +21,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="UserProfile" type="Python" />
     </extensionMap>
   </component>
 </application>
