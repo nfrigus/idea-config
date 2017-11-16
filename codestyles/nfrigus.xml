@@ -29,6 +29,9 @@
     <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
     <option name="DICT_WRAPPING" value="0" />
   </Python>
+  <XML>
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </XML>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
