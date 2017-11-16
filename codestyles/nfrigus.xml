@@ -1,5 +1,6 @@
 <code_scheme name="nfrigus">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
