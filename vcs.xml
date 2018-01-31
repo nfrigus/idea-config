@@ -1,5 +1,12 @@
 <application>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_WHITESPACES_IN_LST" value="true" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="anastasiaAliabieva" />
+        </UrlAndUserName>
+      </list>
+    </option>
   </component>
 </application>
