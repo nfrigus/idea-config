@@ -1,5 +1,9 @@
 <keymap version="1" name="nfrigus" parent="$default">
   <action id="CheckinProject" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CollapseSelection" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
@@ -14,6 +18,7 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl l" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl r" />
   </action>
@@ -67,6 +72,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="TableResult.GrowSelection" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl m" />
   </action>
