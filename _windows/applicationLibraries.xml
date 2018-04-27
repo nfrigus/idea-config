@@ -1,44 +1,24 @@
 <application>
   <component name="libraryTable">
     <library name="bootstrap" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_bootstrap@4.0.0-beta.2_dist_js_bootstrap.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_bootstrap@4.0.0-beta.2_dist_js_bootstrap.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="jquery" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_jquery@3.2.1_dist_jquery.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_jquery@3.2.1_dist_jquery.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="popper" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_popper.js@1.12.6_dist_umd_popper.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_popper.js@1.12.6_dist_umd_popper.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="vue" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue@2.5.2_dist_vue.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue@2.5.2_dist_vue.js" />
       </CLASSES>
