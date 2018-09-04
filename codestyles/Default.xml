@@ -1,1 +1,8 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <JSCodeStyleSettings>
+    <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+  </codeStyleSettings>
+</code_scheme>
