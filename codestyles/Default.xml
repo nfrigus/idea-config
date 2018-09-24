@@ -2,7 +2,30 @@
   <JSCodeStyleSettings>
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
+    <option name="SPACE_AFTER_TYPE_COLON" value="false" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
