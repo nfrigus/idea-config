@@ -17,6 +17,10 @@
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
