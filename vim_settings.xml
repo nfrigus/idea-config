@@ -3,56 +3,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/srv/domains/escmid/webadmin/src/Mm/Escmid/EaaBundle/Resources/config/services.yml" timestamp="1465175367626">
-        <mark key="[" line="58" column="36" />
+      <file name="D:/srv/domains/calla/ca-service/README.md" timestamp="1559731504915">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
       </file>
-      <file name="D:/srv/domains/pt/RomanKarankevychTest/src/Site/SiteBundle/DependencyInjection/Configuration.php" timestamp="1465448852820">
-        <mark key="[" line="16" column="6" />
+      <file name="D:/srv/domains/calla/ca-service/dev.yml" timestamp="1559731525810">
+        <mark key="[" line="12" column="25" />
       </file>
-      <file name="D:/srv/domains/beton/src/Mm/Beton/SchallschutzBundle/Resources/js/README.md" timestamp="1468475057863">
-        <mark key="[" line="12" column="63" />
-      </file>
-      <file name="D:/srv/domains/pt/RomanKarankevychTest/web/config.php" timestamp="1465276647675">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
-      <file name="D:/srv/domains/mbtedb/app/config/services.yml" timestamp="1470555371453">
-        <mark key="[" line="24" column="96" />
-        <mark key="]" line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-      </file>
-      <file name="D:/srv/domains/mbtedb/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/web.xml" timestamp="1470555225662" />
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="53" column="0" filename="D:/srv/domains/calla/ca-service/README.md" />
+      <jump line="55" column="20" filename="D:/srv/domains/calla/ca-service/README.md" />
+      <jump line="52" column="20" filename="D:/srv/domains/calla/ca-service/README.md" />
+      <jump line="49" column="20" filename="D:/srv/domains/calla/ca-service/README.md" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>h</text>
+      </register>
+      <register name="-" type="4">
+        <text>h</text>
+      </register>
+      <register name="/" type="4">
+        <text>dev</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>dev</last-search>
+      <last-offset />
+      <last-pattern>dev</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>dev</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
