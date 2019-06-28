@@ -7,9 +7,10 @@
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
@@ -37,7 +38,7 @@
     <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
     <option name="DICT_WRAPPING" value="0" />
   </Python>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
