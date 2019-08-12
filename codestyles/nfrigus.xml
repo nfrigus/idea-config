@@ -35,11 +35,12 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <Python>
-    <option name="BLANK_LINE_AT_FILE_END" value="false" />
     <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
     <option name="ALIGN_MULTILINE_IMPORTS" value="false" />
     <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
     <option name="DICT_WRAPPING" value="0" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
