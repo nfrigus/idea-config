@@ -20,6 +20,9 @@
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="5" />
+  </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
