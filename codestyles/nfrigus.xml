@@ -1,4 +1,5 @@
 <code_scheme name="nfrigus" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <CssCodeStyleSettings>
