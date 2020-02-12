@@ -17,6 +17,9 @@
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl l" />
   </action>
@@ -24,6 +27,7 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt r" />
   </action>
+  <action id="GotoBookmark0" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="ManageRecentProjects">
