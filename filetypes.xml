@@ -8,6 +8,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="const" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="phpstan" type="YAML" />
       <mapping pattern=".watchmanconfig" type="YAML" />
     </extensionMap>
   </component>
