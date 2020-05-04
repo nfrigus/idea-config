@@ -7,6 +7,10 @@
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <HCL-Terraform>
+    <option name="OBJECT_WRAPPING" value="1" />
+    <option name="ARRAY_WRAPPING" value="1" />
+  </HCL-Terraform>
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
