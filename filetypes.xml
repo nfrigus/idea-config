@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".rsyncignore" type="Fossil file" />
       <mapping ext="editorconfig" type="Ini" />
       <mapping pattern="phpstan" type="YAML" />
     </extensionMap>
