@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="mercury">
+      <action id="EditorDown" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="linessorter.sort" />
+      <action id="EditorDown" />
+    </macro>
+  </component>
+</application>
