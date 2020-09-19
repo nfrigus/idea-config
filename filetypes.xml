@@ -1,14 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".rsyncignore" type="Fossil file" />
+      <mapping ext="0_x4" type="JSON" />
+      <mapping pattern="jenkins" type="PLAIN_TEXT" />
+      <mapping pattern="phpstan" type="YAML" />
       <mapping ext="editorconfig" type="Ini" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern=".initialized" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="const" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".watchmanconfig" type="YAML" />
     </extensionMap>
   </component>
 </application>
