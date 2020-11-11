@@ -5,6 +5,7 @@
       <mapping ext="editorconfig" type="Ini" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="sourceguardian" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="YAML" />
     </extensionMap>
   </component>
