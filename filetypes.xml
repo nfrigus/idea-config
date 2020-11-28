@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="editorconfig" type="Ini" />
+      <mapping ext="0_x4" type="JSON" />
+      <mapping pattern="jenkins" type="PLAIN_TEXT" />
+      <mapping pattern="phpstan" type="YAML" />
+      <mapping pattern=".rsyncignore" type="Fossil file" />
+    </extensionMap>
+  </component>
+</application>
