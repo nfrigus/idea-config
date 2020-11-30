@@ -3,10 +3,9 @@
     <extensionMap>
       <mapping ext="editorconfig" type="Ini" />
       <mapping ext="tfstate" type="JSON" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
-      <mapping pattern=".rsyncignore" type="Fossil file" />
       <mapping pattern="jenkins" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="YAML" />
+      <mapping pattern=".rsyncignore" type="Fossil file" />
     </extensionMap>
   </component>
 </application>
