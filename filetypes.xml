@@ -1,15 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tfstate" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="jenkins" type="PLAIN_TEXT" />
-      <mapping pattern="phpstan" type="YAML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="editorconfig" type="Ini" />
+      <mapping ext="tfstate" type="JSON" />
+      <mapping pattern="jenkins" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="phpstan" type="YAML" />
       <mapping pattern=".rsyncignore" type="Fossil file" />
     </extensionMap>
   </component>
