@@ -1,17 +1,10 @@
 <code_scheme name="nfrigus" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
-  <HCL-Terraform>
-    <option name="PROPERTY_ALIGNMENT" value="2" />
-    <option name="PROPERTY_LINE_COMMENTER_CHARACTER" value="1" />
-    <option name="OBJECT_WRAPPING" value="1" />
-    <option name="ARRAY_WRAPPING" value="1" />
-  </HCL-Terraform>
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
