@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".rsyncignore" type="Fossil file" />
-      <mapping ext="editorconfig" type="Ini" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="editorconfig" type="Ini" />
       <mapping pattern=".rsyncignore" type="Fossil file" />
     </extensionMap>
   </component>
