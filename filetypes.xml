@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="bats " type="AUTO_DETECTED" />
       <mapping ext="tfstate" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
