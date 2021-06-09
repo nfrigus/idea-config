@@ -7,9 +7,9 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="mermaid" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="bats" type="Shell Script" />
       <mapping pattern="phpstan" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
