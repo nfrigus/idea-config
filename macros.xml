@@ -2,18 +2,31 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <shortuct text="ENTER" />
-      <action id="EditorCloneCaretBelow" />
-      <action id="EditorCloneCaretBelow" />
-      <action id="EditorCloneCaretBelow" />
-      <action id="EditorCloneCaretBelow" />
-      <action id="EditorCloneCaretBelow" />
-      <action id="EditorLineEnd" />
-      <typing text-keycode="32:0">&amp;#x20;</typing>
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="EditorDown" />
-      <action id="Macros" />
-      <shortuct text="DOWN" />
+      <action id="EditorCloneCaretBelow" />
+      <action id="EditorNextWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <typing text-keycode="32:0;61:0">&amp;#x20;=</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorEscape" />
+      <action id="EditorBackSpace" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDown" />
+      <action id="EditorNextWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <typing text-keycode="91:1">{</typing>
+      <action id="SaveAll" />
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
     </macro>
   </component>
 </application>
