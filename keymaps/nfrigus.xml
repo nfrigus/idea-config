@@ -67,6 +67,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl v" />
   </action>
+  <action id="StringManipulation.Sort">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl s" />
+  </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
   </action>
