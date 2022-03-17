@@ -1,0 +1,10 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="baseComparator" value="NORMAL" />
+        <option name="preserveLeadingSpaces" value="false" />
+      </SortSettings>
+    </option>
+  </component>
+</application>

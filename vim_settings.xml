@@ -1,0 +1,57 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/srv/domains/calla/ca-service/README.md" timestamp="1559731504915">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+      </file>
+      <file name="D:/srv/domains/calla/ca-service/dev.yml" timestamp="1559735512592">
+        <mark key="[" line="12" column="25" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="53" column="0" filename="D:/srv/domains/calla/ca-service/README.md" />
+      <jump line="55" column="20" filename="D:/srv/domains/calla/ca-service/README.md" />
+      <jump line="52" column="20" filename="D:/srv/domains/calla/ca-service/README.md" />
+      <jump line="49" column="20" filename="D:/srv/domains/calla/ca-service/README.md" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>h</text>
+      </register>
+      <register name="-" type="4">
+        <text>h</text>
+      </register>
+      <register name="/" type="4">
+        <text>dev</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>dev</last-search>
+      <last-offset />
+      <last-pattern>dev</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>dev</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
