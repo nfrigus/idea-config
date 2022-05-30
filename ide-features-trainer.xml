@@ -33,6 +33,7 @@
         <entry key="java.debug.workflow" value="NOT_PASSED" />
         <entry key="java.inheritance.hierarchy.lesson" value="NOT_PASSED" />
         <entry key="java.occurrences.lesson" value="NOT_PASSED" />
+        <entry key="java.onboarding" value="NOT_PASSED" />
         <entry key="java.refactoring.menu" value="NOT_PASSED" />
         <entry key="java.run.configuration" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
@@ -45,6 +46,7 @@
         <entry key="refactoring menu" value="NOT_PASSED" />
         <entry key="refactoring.in.place" value="NOT_PASSED" />
         <entry key="refactoring.quick.fix" value="NOT_PASSED" />
+        <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="NOT_PASSED" />
         <entry key="rename" value="NOT_PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />
