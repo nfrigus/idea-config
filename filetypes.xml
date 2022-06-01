@@ -4,7 +4,6 @@
       <mapping pattern="pritunl-cli" type="AUTO_DETECTED" />
       <mapping pattern="slack-users-cli" type="AUTO_DETECTED" />
       <mapping ext="bats " type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="tfstate" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
