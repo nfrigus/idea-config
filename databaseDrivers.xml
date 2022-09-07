@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="mariadb">
-      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
+    <driver id="mariadb" dialect="MySQL">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.0.7" />
     </driver>
     <driver id="azure.ms">
       <option name="auto-sync" value="false" />
@@ -17,6 +17,9 @@
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
       </library>
+    </driver>
+    <driver id="mysql_aurora">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.0.7" />
     </driver>
     <driver id="oracle">
       <option name="auto-sync" value="false" />
