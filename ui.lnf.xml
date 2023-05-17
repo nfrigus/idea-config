@@ -1,5 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
